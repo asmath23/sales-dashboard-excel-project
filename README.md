@@ -35,8 +35,7 @@ This project focuses on analyzing sales data and creating an interactive dashboa
 You can download the project files below:
 
 - Excel Dashboard File:  
-https://docs.google.com/spreadsheets/d/1UwnaBk9yOzND4-v9DN3fGlXLH20FsjZB/edit?usp=sharing&ouid=111764752997695246395&rtpof=true&sd=true
-
+https://docs.google.com/spreadsheets/d/1UwnaBk9yOzND4-v9DN3fGlXLH20FsjZB/edit?gid=1557008418#gid=1557008418
 - Project Report (PDF):  
 https://drive.google.com/file/d/11y8uhTEk8FOMPHSAluiKh4RYn4d8RGGw/view
 
