@@ -29,3 +29,20 @@ This project focuses on analyzing sales data and creating an interactive dashboa
 - Dashboard Development
 - Excel Analytics
 - Business Intelligence
+
+## Project Files
+
+You can download the project files below:
+
+- Excel Dashboard File:  
+https://docs.google.com/spreadsheets/d/1UwnaBk9yOzND4-v9DN3fGlXLH20FsjZB/edit?usp=sharing&ouid=111764752997695246395&rtpof=true&sd=true
+
+- Project Report (PDF):  
+https://drive.google.com/file/d/11y8uhTEk8FOMPHSAluiKh4RYn4d8RGGw/view
+
+## Dashboard Preview
+https://drive.google.com/file/d/18Tn3XDEPE1ZriZGRZu5mjNpkEMK_Y6Wq/view
+
+## Project Demo Video
+Download the screen recording here:
+https://drive.google.com/file/d/1J3C8EoPjzrKMqE8wuhwWgnr-3PeK7YfO/view
