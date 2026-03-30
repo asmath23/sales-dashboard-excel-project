@@ -36,7 +36,9 @@ You can download the project files below:
 
 - Excel Dashboard File:  
 https://docs.google.com/spreadsheets/d/1UwnaBk9yOzND4-v9DN3fGlXLH20FsjZB/edit?gid=1557008418#gid=1557008418
+
 [Note: For the best viewing experience, please download and open the Excel file in Microsoft Excel, Opening in Google Sheets may affect dashboard alignment and formatting.]
+
 - Project Report (PDF):  
 https://drive.google.com/file/d/11y8uhTEk8FOMPHSAluiKh4RYn4d8RGGw/view
 
